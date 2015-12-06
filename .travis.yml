@@ -10,4 +10,4 @@ node_js:
 
 before_install:
   - npm install -g grunt-cli
-  - nvm ls
+  - nvm ls-remote
